@@ -1,0 +1,38 @@
+2024-03-29 10:17:26.4292 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'LogLevel' from section 'NLog'
+2024-03-29 10:17:26.4563 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-03-29 10:17:26.4673 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-29 10:17:26.4673 Info Validating config: TargetNames=file, ConfigItems=12 ConfigSection=NLog
+2024-03-29 10:17:26.4837 Info Configuration initialized.
+2024-03-29 10:17:26.6572 Info AppDomain Shutting down. LogFactory closing...
+2024-03-29 10:17:26.6702 Info LogFactory has been closed.
+2024-03-29 10:19:29.2537 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'LogLevel' from section 'NLog'
+2024-03-29 10:19:29.2824 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-03-29 10:19:29.2904 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-29 10:19:29.2904 Info Validating config: TargetNames=file, ConfigItems=12 ConfigSection=NLog
+2024-03-29 10:19:29.2904 Info Configuration initialized.
+2024-03-29 10:19:29.4027 Info AppDomain Shutting down. LogFactory closing...
+2024-03-29 10:19:29.4027 Info LogFactory has been closed.
+2024-03-29 10:20:27.6673 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'LogLevel' from section 'NLog'
+2024-03-29 10:20:27.7061 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-03-29 10:20:27.7194 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-29 10:20:27.7250 Info Validating config: TargetNames=file, ConfigItems=12 ConfigSection=NLog
+2024-03-29 10:20:27.7250 Info Configuration initialized.
+2024-03-29 10:20:28.3822 Info AppDomain Shutting down. LogFactory closing...
+2024-03-29 10:20:28.4004 Info LogFactory has been closed.
+2024-03-29 10:21:05.5826 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'LogLevel' from section 'NLog'
+2024-03-29 10:21:05.6163 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-03-29 10:21:05.6163 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-29 10:21:05.6163 Info Validating config: TargetNames=file, ConfigItems=12 ConfigSection=NLog
+2024-03-29 10:21:05.6432 Info Configuration initialized.
+2024-03-29 10:21:06.7260 Info AppDomain Shutting down. LogFactory closing...
+2024-03-29 10:21:06.7513 Info LogFactory has been closed.
+2024-03-29 10:34:14.1542 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'LogLevel' from section 'NLog'
+2024-03-29 10:34:14.2165 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-03-29 10:34:14.2366 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-29 10:34:14.2429 Info Validating config: TargetNames=file, ConfigItems=12 ConfigSection=NLog
+2024-03-29 10:34:14.2429 Info Configuration initialized.
+2024-03-29 11:05:31.9383 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'LogLevel' from section 'NLog'
+2024-03-29 11:05:31.9990 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-03-29 11:05:32.0153 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-29 11:05:32.0227 Info Validating config: TargetNames=file, ConfigItems=12 ConfigSection=NLog
+2024-03-29 11:05:32.0227 Info Configuration initialized.
